@@ -53,6 +53,7 @@ AI-RESUME-ANALYZER
 ├── README.md
 ├── .gitignore
 └── venv/
+
 ## How to Run
 
 1. Install the required Python packages.
