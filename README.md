@@ -19,3 +19,8 @@ An AI-powered Resume Analyzer that analyzes a resume based on a target job role 
 - Resume improvement suggestions
 - Suggested projects
 - Interview questions
+- ## Project Screenshots
+
+### Resume Analysis Output
+
+![Resume Analysis Output](./resume-analysis-output.png)
