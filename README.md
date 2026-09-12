@@ -53,3 +53,9 @@ AI-RESUME-ANALYZER
 ├── README.md
 ├── .gitignore
 └── venv/
+## How to Run
+
+1. Install the required Python packages.
+2. Add your OpenRouter API key in the `.env` file.
+3. Run `resume_api.py`.
+4. Open `index.html` using Live Server.
